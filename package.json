@@ -1,7 +1,7 @@
 {
-  "name": "school-management-backend",
+  "name": "Mangement systen Backend",
   "version": "1.0.0",
-  "description": "Multi-School Management System Backend with MERN Stack",
+  "description": "School Management System Backend ",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
